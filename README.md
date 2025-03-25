@@ -40,6 +40,8 @@ Lets take a look inside the `src` folder
   }
 }
 
+-go inside the `src` folder and execute the following command
+  npx sequelize init
 
 - If you're setting up your dev environment set up username and password of your db and mention db name in dialect.do same for test and prod env
 
